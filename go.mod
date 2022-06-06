@@ -16,7 +16,7 @@ require (
 	k8s.io/klog/v2 v2.30.0
 	k8s.io/kubernetes v1.22.9
 	sigs.k8s.io/controller-runtime v0.11.2
-	sigs.k8s.io/e2e-framework v0.0.6
+	sigs.k8s.io/e2e-framework v0.0.7
 	sigs.k8s.io/kind v0.11.1
 )
 
